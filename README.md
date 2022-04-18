@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denguit0
+- 👋 Hi, I’m @Tincit0
 - 👀 I’m interested in Music, CG art, D&D, dreams.
 - 🌱 I’m currently learning Python, Java, Data Analysis.
 - 💞️ I’m looking to collaborate on anything that helps my studies.
